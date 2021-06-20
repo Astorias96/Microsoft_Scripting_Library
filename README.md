@@ -1,5 +1,5 @@
 # PowerShell_Library
-This repository provides an extensive list of Powershell scripts that can be used by system administrators.
+This repository serves as a collection of Powershell scripts that can be used by system administrators.
 
 
 # Environments
