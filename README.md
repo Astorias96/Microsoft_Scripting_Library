@@ -1,4 +1,4 @@
-# PowerShell_Library
+# PowerShell_Scripting_Library
 This repository serves as a collection of Powershell scripts that can be used by system administrators.
 
 
