@@ -1,0 +1,3 @@
+
+net user /dom
+pause ...
