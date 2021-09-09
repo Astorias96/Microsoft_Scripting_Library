@@ -1,3 +1,0 @@
-
-net user /dom
-pause ...
