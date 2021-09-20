@@ -1,5 +1,5 @@
-# PowerShell_Scripting_Library
-This repository serves as a collection of Powershell scripts that can be used by system administrators.
+# Batch_PowerShell_Scripting_Library
+This repository serves as a collection of Batch and PowerShell scripts that can be used by system administrators.
 
 
 # Environments
