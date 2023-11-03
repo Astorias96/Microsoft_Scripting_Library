@@ -48,7 +48,6 @@ if (-not $isAdmin) {
 Write-Host "$console_text_introduction" -ForegroundColor Cyan
 Write-Host "The script has started, the timestamp is:"
 Invoke-Expression $current_date
-Write-Host ""
 
 
 ## Configure timeout for automatic disk, hibernate, monitor and standby
